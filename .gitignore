@@ -1,0 +1,6 @@
+/target
+*.rs.bk
+.idea/
+.vscode/
+
+# Note: Cargo.lock is intentionally committed (not ignored).
